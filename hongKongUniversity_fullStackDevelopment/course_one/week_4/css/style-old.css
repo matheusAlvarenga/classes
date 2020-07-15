@@ -63,8 +63,8 @@ body {
 	min-height: 300px;
 }
 
-.carousel-control-prev-icon {
-	width: 15px;
-	height: 10px;
-	color: red !important;
+#carouselButton {
+	right: 0;
+	position: absolute;
+	bottom: 0px;
 }
